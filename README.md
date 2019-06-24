@@ -12,3 +12,4 @@ There are eye recognition.imls. I want you to organize the folder like this.
 
 All of the py files used openCV lane recognition examples. Also, we used keras for eye recognition However, the size of this file is so large that if you want to receive a code or file, please contact loreal97@naver.com
 
+Finally, all the files were torrented and the zip files were uploaded. Unzip it and download it through the torrent.
